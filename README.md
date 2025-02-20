@@ -1,4 +1,4 @@
-# AI_learn
+# AI_learning
 
 
 ## 数学基础
