@@ -27,6 +27,18 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 This site was built using [GitHub Pages](https://pages.github.com/).
 ### 图片
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+### 列表
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+1. First list item
+   - First nested list item
+     - Second nested list item
 
 ## 数学基础
 ### 线性代数
