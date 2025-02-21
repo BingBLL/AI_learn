@@ -45,7 +45,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ### 概率论与数理统计
 
-## Python 基础
+## Python 基础 [教程](https://www.runoob.com/python3/python3-tutorial.html)
+
 
 
 
