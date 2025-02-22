@@ -41,16 +41,16 @@ This site was built using [GitHub Pages](https://pages.github.com/).
      - Second nested list item
 
 ## 数学基础
-### 线性代数
+### [线性代数教程](https://www.bilibili.com/video/BV1ys411472E/)
 #### 向量究竟是什么？
 向量是空间中的箭头。 向量是有序数字的列表。\
 向量加法和向量乘法： 线性代数每一个主题都是围绕两种运算。\
 向量加法的定义差不多是线性代数中唯一允许向量离开原点的情形。\
 （线性代数给物理学家和计算机图形程序员提供了一种语言。让他们通过计算机处理的数字来描述并操作空间。）
 
-### 概率论与数理统计
+### [概率论与数理统计教程](https://zh.khanacademy.org/math/statistics-probability)
 
-## Python 基础 [教程](https://www.runoob.com/python3/python3-tutorial.html)
+## [Python基础教程](https://www.runoob.com/python3/python3-tutorial.html)
 
 
 
