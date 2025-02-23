@@ -58,7 +58,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 中位数：就是最中间的那个数字。 中点数：最高分数加最低分数除以2。
 
 ## [Python基础教程](https://www.runoob.com/python3/python3-tutorial.html)
-1. [基本语法](http://localhost:8888/lab)
+1. 基本语法
 
 
 
