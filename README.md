@@ -79,10 +79,10 @@ This site was built using [GitHub Pages](https://pages.github.com/).
         - 列表写在方括号之间，元素用逗号隔开。
         - 和字符串一样，列表可以被索引和切片。
         - 列表可以使用 + 操作符进行拼接。
-        - `列表中的元素是可以改变的`
-   **注意:**
-   - 不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；
-   - 可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。
+        - `列表中的元素是可以改变的` 
+   * **注意:**
+     - 不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；
+     - 可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。
       
 
 
