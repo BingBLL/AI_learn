@@ -58,8 +58,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 中位数：就是最中间的那个数字。 中点数：最高分数加最低分数除以2。
 
 ## [Python基础教程](https://www.runoob.com/python3/python3-tutorial.html)
-1. 基本语法
-2. 基本数据类型
+### 1. 基本语法
+### 2. 基本数据类型 
    * Number（数字）
      - Python可以同时为多个变量赋值，如a, b = 1, 2。
      - 一个变量可以通过赋值指向不同类型的对象。
@@ -80,6 +80,9 @@ This site was built using [GitHub Pages](https://pages.github.com/).
         - 和字符串一样，列表可以被索引和切片。
         - 列表可以使用 + 操作符进行拼接。
         - `列表中的元素是可以改变的`
+   **注意:**
+   - 不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；
+   - 可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。
       
 
 
